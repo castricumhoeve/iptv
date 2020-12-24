@@ -1,0 +1,24 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Iqraa
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa Europe Africa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PS" tvg-logo="https://i.imgur.com/uDX98CJ.jpg" group-title="Undefined",An-Najah Nbc
+http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="JO" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="Undefined",Ro'ya TV
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Alfajertv 2
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Al Fajer 2 HD (1+),AlfajertvHDTwo_web
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/EKGnd0S.png" group-title="Undefined",Watan TV,WATAR (1280×720)
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
