@@ -1,22 +1,22 @@
 #EXTM3U
 #PLAYLIST:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
-http://stariptv.zapto.org:2500/Roberto4/Roberto4/96582?checkedby:iptvcat.com
+http://stariptv.zapto.org:2500/Roberto4/Roberto4/96582
 #EXTINF:0 tvg-country="BR;CA" tvg-logo="" group-title="Undefined",Discovery Science HD
-http://skylogic.site:8080/esterichannel50con/36cb6c13/8910?checkedby:iptvcat.com
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8910
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY
-http://listamy.com:8080/Berto/Berto/305976?checkedby:iptvcat.com
+http://listamy.com:8080/Berto/Berto/305976
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ROYA HD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/86584?checkedby:iptvcat.com
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/86584
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ROYA HD
-http://rv.flysat.live:80/307200111632/307200111632/86584?checkedby:iptvcat.com
+http://rv.flysat.live:80/307200111632/307200111632/86584
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8?checkedby:iptvcat.com
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="Undefined",MBC
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8?checkedby:iptvcat.com
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MBC 2 UHD
-http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79460?checkedby:iptvcat.com
+http://ip.mooniptv.cz:80/aH7H9EHtYh/Pr4KAdqKIb/79460
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Al Fajer 2 HD,ALFAJR Hd2
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?checkedby:iptvcat.com
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
