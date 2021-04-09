@@ -1,5 +1,4 @@
 #EXTM3U
-#PLAYLIST:iptvcat.com
 #EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious",Iqraa
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
